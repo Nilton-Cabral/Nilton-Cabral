@@ -1,6 +1,3 @@
-<style>
-    font-family: Times;
-</style>
 <div>
 ## Hi, My name is <strong>Nilton Cabral</strong>
 
